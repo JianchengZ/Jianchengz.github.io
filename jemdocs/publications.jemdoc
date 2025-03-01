@@ -1,11 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}
 # jemdoc: nofooter
-
 = Jiancheng Zhang - Publications
 
 
 == [./tutorials.html *Tutorials*] \[[./tutorials.html *More*]\]
-== [./workshop.html *Workshop*] \[[./workshop.html *More*]\]
+== [./workshop.html *Workshop*] \[[./workshops.html *More*]\]
 
 == Recent Preprints
 (* Corresponding author; \# Equal contribution)
