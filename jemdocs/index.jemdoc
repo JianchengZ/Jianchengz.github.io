@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
+= Jiancheng Zhang
+
+~~
+{}{img_left}{imgs/zjc.jpg}{Image of Jiancheng}{160}{210}{imgs/zjc.jpg}
+
+
+PhD student \n
+[https://www.ece.ucr.edu/ Department of Electrical and Computer Engineering (ECE)] \n
+[https://www.ucr.edu/ University of California, Riverside (UCR)]
+
+Email: jzhan745@ucr.edu
+
+Office: Room 371, Winston Chung Hall
+
+
+
+~~~
+
+
+== Short Bio
+
+I am a first-year PhD student in the ECE department at UC Riverside, supervised by [https://yinglunz.com/ *Prof. Yinglun Zhu*]. Before this, I earned a BS in Software Engineering at Shandong University. During my undergraduate studies, I did some research on the application of machine learning, being advised by [https://faculty.sdu.edu.cn/xuyonghui1/zh_CN/index.htm *Prof. Yonghui Xu*], and I also explored some biology problems using machine learning, being advised by the Assistant Professor at New York University: [https://sites.google.com/nyu.edu/mingtao-xia/home *Dr. Mingtao Xia*].  Download my [files/cv.pdf Curriculum Vitae] .
+
+
+
+
+== Research Interests \[[https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ  Google Scholar]\]
+
+
+Machine Learning, Artificial Intelligence, and its applications in healthcare, biology, and other fields, with a particular focus on:
+- *Active Learning (AL) and Multimodal AL*
+- *Efficient Machine Learning*: Efficient training and inference
+
+
+== News
+:{*2025*}
+
+: {*2024*}
+- 09/2024: I would serve as a reviewer for ICLR2025.
+- 05/2024: I have accepted the offer from UCR.
+

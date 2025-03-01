@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{publications.html}
+# jemdoc: nofooter
+
+= Jiancheng Zhang - Publications
+
+
+== [./tutorials.html *Tutorials*] \[[./tutorials.html *More*]\]
+== [./workshop.html *Workshop*] \[[./workshop.html *More*]\]
+
+== Recent Preprints
+(* Corresponding author; \# Equal contribution)
+
+- *Jiancheng Zhang$^\#$*, Xiangting Li$^\#$, Xiaolu Guo$^\#$, Zhaoyi You, Lucas Böttcher, Alex Mogilner, Alexander Hoffmann, Tom Chou\*, Mingtao Xia\* \n
+*Reconstructing Noisy Gene Regulatory Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations* \n
+
+
+- Zexin Li$^\#$, *Jiancheng Zhang$^\#$*, Yufei Li, Yinglun Zhu\*, Cong Liu\* \n
+*Mixtraining: A Better Trade-Off Between Compute and Performance* \n
+arXiv, 2025. \[[https://arxiv.org/abs/2502.19513 ArXiv]\]
+
+== Conference and Journal Publications \[[https://scholar.google.com/citations?hl=en&user=tIKc8voAAAAJ  *Google Scholar*]\]
+(* Corresponding author; \# Equal contribution)
+
+- *Jiancheng Zhang\**, Yonghui Xu\*, Bicui Ye, Yibowen Zhao, Xiaofang Sun, Qi Meng, Yang Zhang\*, Lizhen Cui \n
+*EAPR: explainable and augmented patient representation learning for disease prediction*  \n
+In Health Information Science and Systems, 2023. \n
+\[[https://link.springer.com/article/10.1007/s13755-023-00256-5 Paper]\]
+
+- *Jiancheng Zhang*,  Xiao Yang, Hefeng Meng, Zhiqiang Lin, Yonghui Xu\*, Lizhen Cui\* \n
+*A Survey on Knowledge Enhanced EHR Data Mining* \n
+In 5th International Conference on Crowd Science and Engineering (ICCSE 2021), 2021. \n
+\[[https://dl.acm.org/doi/10.1145/3503181.3503202 Paper]\]
